@@ -1,0 +1,52 @@
+{
+    "6869834222": {
+        "templates": {},
+        "known_chats": {
+            "2761136892": "𓏺 GrouB FoX .",
+            "3144210722": "ˑ 𝖶!𝖾 𝖮𝗋𝖺𝖲𝗈 -",
+            "2987195156": "𓏺 We FrienDs ."
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "'"
+                }
+            ],
+            "interval": 120,
+            "groups": [
+                "channel:2761136892",
+                "channel:3144210722",
+                "channel:2987195156"
+            ],
+            "last_msg_id": [
+                25943
+            ],
+            "here_groups": [
+                "2761136892",
+                "3144210722",
+                "2987195156"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 120,
+            "template_pattern": "1",
+            "groups": [
+                "channel:2761136892",
+                "channel:3144210722",
+                "channel:2987195156"
+            ],
+            "templates": [
+                {
+                    "text": "'"
+                }
+            ],
+            "group_rotation": {
+                "2761136892": 12
+            }
+        }
+    }
+}
